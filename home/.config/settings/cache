@@ -1,0 +1,3 @@
+# BLOCKED: legacy wallpaper cache directory.
+# Runtime files: ~/.cache/hyprgruv/wallpaper (see wallpaper-paths.sh)
+# Delete this file only if you are intentionally reverting the migration.
